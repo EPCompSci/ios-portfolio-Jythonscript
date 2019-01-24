@@ -1,7 +1,0 @@
-Things to add to the repo
-
-1. All about me app
-2. Pong Mobile
-3. SceneKit
-4. Notifications / alerts app
-5. Learned SQL (in README)
