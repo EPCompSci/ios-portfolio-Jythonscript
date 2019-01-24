@@ -1,0 +1,3 @@
+[submodule "appAboutMe"]
+	path = appAboutMe
+	url = https://github.com/Jythonscript/appAboutMe
