@@ -1,6 +1,6 @@
 # iOS-Portfolio
 This repository is an overview of what I have learned and worked on in IOS Development, 2018-2019.  
-#### All About Me
+#### appAboutMe
 This was the first app I made in IOS Development. It is a simple app that uses some buttons to control the contents of a table view, showing the user a little about me, the app's creator.
 #### Pong Mobile
 This was the first app that I made using SpriteKit, which is a high-level 2d graphics engine that is part of the Swift builtin library. It is not very graphically advanced, since it doesn't use any real art. The graphics are made using a few simple function calls. I still learned a lot by making this app, since I ended up reading a lot of the official documentation about SpriteKit made by Apple.
