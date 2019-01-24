@@ -1,3 +1,6 @@
 [submodule "appAboutMe"]
 	path = appAboutMe
 	url = https://github.com/Jythonscript/appAboutMe
+[submodule "pongMobile"]
+	path = pongMobile
+	url = https://github.com/Jythonscript/pongMobile
