@@ -4,3 +4,6 @@
 [submodule "pongMobile"]
 	path = pongMobile
 	url = https://github.com/Jythonscript/pongMobile
+[submodule "IOSNotifications"]
+	path = IOSNotifications
+	url = https://github.com/Jythonscript/IOSNotifications
