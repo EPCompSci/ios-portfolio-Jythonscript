@@ -1,4 +1,4 @@
-# iOS-Portfolio
+# iOS-Portfolio - Avery Bartnik
 This repository is an overview of what I have learned and worked on in IOS Development, 2018-2019.  
 #### appAboutMe
 This was the first app I made in IOS Development. It is a simple app that uses some buttons to control the contents of a table view, showing the user a little about me, the app's creator.
